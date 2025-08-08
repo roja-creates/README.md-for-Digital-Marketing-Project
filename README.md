@@ -1,29 +1,25 @@
-# 🎯 Digital Marketing & Canva Portfolio
+# Instagram Marketing Campaign – Canva & AI Tools
 
-This repository showcases my hands-on work in **digital marketing**, content creation, and **visual design using Canva**. Projects include:
+This project showcases my creative work in social media content design and AI-based copywriting for Instagram.
 
-### 🔹 Instagram Post Designs
-- Designed Instagram creatives for awareness campaigns and product promotions.
-- Focused on brand consistency, visual hooks, and engagement.
-- Tool: Canva + AI text tools (ChatGPT, Rytr, etc.)
+## 🛠 Tools Used:
+- **Design:** Canva (Post, Reel Thumbnails, Templates)
+- **Editing:** InShot & CapCut (Reel Editing)
+- **AI Tools:** ChatGPT for caption prompts and scheduling strategies
 
-### 🔹 Short Video Edits (Reels)
-- Edited 30-second vertical videos using music sync and hook-based formats.
-- Tools used: CapCut, Canva Video Editor
+## 📌 Project Overview:
+- Designed 15+ visually consistent Instagram posts for a mock wellness brand
+- Used AI tools to generate engaging captions and hook lines
+- Focused on building a content calendar, targeting a 7-day campaign strategy
 
-### 🔹 Birth Photo Templates
-- Created personalized birth announcement templates using Canva elements.
-- Delivered editable and printable versions for clients.
-
-### 🔹 Business Branding Templates
-- Built Canva templates for business cards, quote posts, and Instagram carousels.
-- All optimized for mobile-first branding and marketing.
+## 🧩 Folder Contents:
+- `/Canva-Posts`: Post screenshots
+- `/Captions`: Captions used for each post
+- `/Reel-Edits`: Short demo clips (edited in CapCut/InShot)
 
 ---
 
-👩‍💻 Tools Used:  
-- **Canva**, CapCut, AI Copywriting Tools  
-- LinkedIn & Instagram Visual Post Creation  
-- Social Media Strategy Drafting
-
-🧩 More Coming Soon...
+## 🔗 Contact:
+📬 rayroja101@gmail.com  
+🌍 Bhubaneswar, India  
+🔗 [[LinkedIn Profile](https://www.linkedin.com/in/roja-ray/)] 
